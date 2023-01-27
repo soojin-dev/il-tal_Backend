@@ -11,5 +11,4 @@ public class SherlockEscapeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SherlockEscapeApplication.class, args);
 	}
-
 }

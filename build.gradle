@@ -40,7 +40,7 @@ dependencies {
     implementation "com.querydsl:querydsl-apt:${queryDslVersion}"
 
     //mysql
-    runtimeOnly 'com.mysql:mysql-connector-j'
+    runtimeOnly 'mysql:mysql-connector-java'
 
     //s3
     implementation 'io.awspring.cloud:spring-cloud-starter-aws:2.4.2'
